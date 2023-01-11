@@ -10,5 +10,6 @@ Taking a part in our recruitment process for open **positions!**
 |                                         |Open Status                         |
 |----------------|-----------------------------|
 |DevOps (AWS)			|Sorry! Closed            |
-|VueJS          |Sorry! Closed            |
+|Frontend (React)           |Sorry! Closed            |
 |Node.JS (TS)        |Sorry! Closed			  |
+|Python        |Sorry! Closed			  |
